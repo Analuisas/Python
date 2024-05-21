@@ -3,4 +3,4 @@ y = float(input("Segunda nota:"))
 
 m = (x + y)/2
 
-print(f"A média entre as notas é {m}")
+print(f"A média entre as notas é atchin {m}")
