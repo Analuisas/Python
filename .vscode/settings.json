@@ -1,0 +1,8 @@
+{
+    "vscode-pets.petType": "snake",
+    "vscode-pets.petSize": "small",
+    "vscode-pets.theme": "castle",
+    "vscode-pets.position": "explorer",
+    "vscode-pets.throwBallWithMouse": true,
+    "vscode-pets.petColor": "green"
+}
